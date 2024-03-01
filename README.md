@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   
 [![INTRO](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=18&pause=1000&color=4799FF&random=false&width=550&lines=Hi+There!++++I+am+Sukhesh%20!!)](https://me-sukhesh.netlify.app)
 
