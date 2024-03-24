@@ -1,19 +1,42 @@
-<div>
-  
-[![INTRO](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=18&pause=1000&color=4799FF&random=false&width=550&lines=Hi+There!++++I+am+Sukhesh%20!!)](https://me-sukhesh.netlify.app)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<div align="center">
+
+[![INTRO](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=18&center=true&pause=500&color=4799FF&random=false&width=850&lines=Hi+There!++++I+am+Sukhesh%20!!%20👋)](https://me-sukhesh.netlify.app) 
 
 </div>
 
-- 👨🏻‍🎓 Currently conquering my 2nd year at SKCT
-  
-  
-- 🔭 I'm playing around with React, cooking up websites. Excited for PR surprises! 😄📱
-  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-- 👫 Let's chat, connect, and make some coding magic happen!
+## About Me
+```Python
+  Sukhesh VSK = {
+    Location: "India",
+    Talents : {1: "Create Memes", 2: "Bathroom Singer", 3: "Photography"},
+    Hobbies : {'I Code', 'Music <3'},
+    University : "Sri Krishna College of Technology",
+    Quote : 'Programming is the art of adding bugs to an empty text file. :>'
+  }
+```
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+## Connect Me
+<div align="center">👫 Let's chat, connect, and make some coding magic happen!</div> <br>
+<div align="center">
+<a href="https://github.com/sukhesh-vsk" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/sukheshkumar" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/saakletu" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
 
-<br/>  
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ## My Skill Set  
@@ -26,8 +49,8 @@
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>   
 </div>  
 
-
-<br/>  
+<br>  <br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 
 ## Languages
@@ -53,31 +76,14 @@
 
 <br/>  
 
-
-## Connect with me  
-
-
-<div align="center">
-<a href="https://github.com/sukhesh-vsk" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/sukheshkumar" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/saakletu" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-
-
-<br/>  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=sukhesh-vsk&&style=flat-square" align="center" />
 </div>
 
+<br/> 
 
-<br/>  
-
+<div align="center"><font color="#a5d6ff">" Till death we do ART... "</font></div>
 
